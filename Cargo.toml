@@ -1,0 +1,7 @@
+[package]
+name = "sql_parser"
+version = "0.1.0"
+edition = "2021"
+authors = ["George Tsertsvadze <giorgi.tsertsvadze@sa.stud.vu.lt"]
+
+[dependencies]
